@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Its me Badreddine Zari
+# It's me Badreddine Zari
 
 > **Product-driven software engineer** focused on building human-centric digital experiences. Bridging computer science and mathematics with purposeful product engineering.
 
