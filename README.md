@@ -17,6 +17,6 @@
 * **Algorithms:** Tackling competitive programming challenges efficiently using `Python`.
 
 ### Selected Work & Initiatives
-* **[Moroccan Open Source](https://moroccanopensource.org)** — Founder of MOS, a community hub dedicated to elevating the local open-source ecosystem.
+* **[Moroccan Open Source](https://www.moroccanopensource.org/)** — Founder of MOS, a community hub dedicated to elevating the local open-source ecosystem.
 * **[Moroccan Rap Insights]** — A data-driven project analyzing local rap lyrics to extract cultural trends and linguistic data insights.
 * **[42 Common Core]** — Navigating low-level architecture, rigorous logic, and systems programming.
